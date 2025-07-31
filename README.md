@@ -1,18 +1,27 @@
-# Monitoramento de Saúde Bucal Pública de Toledo/PR
-Monitoramento de Indicadores em Saúde Bucal na cidade de Toledo no Paraná
+# 🦷 Monitoramento de Saúde Bucal Pública — Toledo/PR
 
-# Membros do Grupo
-Bruno
-Fernando
-Rafael
-Thales
-Vinícius (líder)
+Projeto de análise e visualização de indicadores de saúde bucal no município de **Toledo, Paraná**, com foco na limpeza de dados e construção de um dashboard interativo.
 
-# Objetivo Geral
-Limpeza minuciosa dos dados para contruir uma visualização precisa dos dados da cidade.
-Criação de um dashboard com foco na fácil compreensão.
+---
 
-# Tecnologias Utilizadas
-Power BI
-Power Query
-Python
+## 👥 Membros do Grupo
+- Bruno  
+- Fernando  
+- Rafael  
+- Thales
+- - **Vinícius** (Líder) 
+
+---
+
+## 🎯 Objetivo Geral
+- Realizar **limpeza minuciosa dos dados** referentes à saúde bucal no município de Toledo/PR.  
+- Desenvolver um **dashboard visual e intuitivo** para facilitar a compreensão dos indicadores pela população e órgãos responsáveis.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Power BI** – Visualização dos dados e construção do dashboard.
+- **Power Query** – Tratamento e transformação dos dados.  
+- **Python** – Tratamento e transformação dos dados.
+
+---
