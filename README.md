@@ -9,7 +9,7 @@ Projeto de análise e visualização de indicadores de saúde bucal no municípi
 - Fernando  
 - Rafael  
 - Thales
-- - **Vinícius** (Líder) 
+- **Vinícius** (Líder) 
 
 ---
 
