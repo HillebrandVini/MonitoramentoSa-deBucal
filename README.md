@@ -23,7 +23,7 @@ Acesse o [Google Docs com os detalhes do projeto](https://docs.google.com/docume
 
 ## 🎯 Objetivo Geral
 - Realizar **limpeza minuciosa dos dados** referentes à saúde bucal no município de Toledo/PR.  
-- Desenvolver um **dashboard visual e intuitivo** para facilitar a compreensão dos indicadores pela população e órgãos responsáveis.
+- Desenvolver um **dashboard** para facilitar a compreensão dos indicadores pelos órgãos responsáveis.
 
 ---
 
