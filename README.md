@@ -1,6 +1,14 @@
+
+
 # 🦷 Monitoramento de Saúde Bucal Pública — Toledo/PR
 
 Projeto de análise e visualização de indicadores de saúde bucal no município de **Toledo, Paraná**, com foco na limpeza de dados e construção de um dashboard interativo.
+
+---
+
+## Documento do Projeto
+
+Acesse o [Google Docs com os detalhes do projeto](https://docs.google.com/document/d/1ZrpFTmk1hqf9-mgdKU84g9t8C1i40G5WlPoBTT4vE2s/edit?usp=sharing).
 
 ---
 
